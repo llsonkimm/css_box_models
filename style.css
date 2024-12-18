@@ -85,3 +85,16 @@
     padding: 50px 50px 50px 40%;
     background: lime;
 }
+
+.lorem11 {
+    width: 100%;
+    padding: 25px;
+    background: lime;
+}
+
+.lorem12 {
+    width: 100%;
+    padding: 25px;
+    box-sizing: border-box;
+    background: lime;
+}
